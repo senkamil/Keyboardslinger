@@ -1,4 +1,4 @@
-# 260201024 - Kamil Şen Ceng 421 - Server - Final Project
+# Kamil Şen
 
 import socket
 import threading

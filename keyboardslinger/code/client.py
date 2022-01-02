@@ -1,4 +1,4 @@
-# 260201024 - Kamil Şen Ceng 421 - Client - Final Project
+# Kamil Şen
 
 import artfile
 import time

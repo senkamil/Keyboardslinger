@@ -1,4 +1,4 @@
-# 260201024 - Kamil Şen Ceng 421 - Artfile - Final Project
+# Kamil Şen
 
 # This file contains ASCCI arts used in game
 
